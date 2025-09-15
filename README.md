@@ -231,7 +231,7 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 - [Live Demo](https://your-demo-link.com)  
 - [GitHub Repository](https://github.com/yourusername/talktotext-pro)  
 - [Video Demo](https://youtube.com/your-demo-video)  
-- [Blog Post](https://your-blog-link.com)  
+- [Blog Post]([https://your-blog-link.com](https://ai-poweredmeetingnotesrewriter.hashnode.dev/talktotext-pro))  
 
 ---
 
