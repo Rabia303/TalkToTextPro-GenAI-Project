@@ -1,0 +1,11 @@
+Flask==2.3.3
+Flask-CORS==4.0.0
+Flask-Mail==0.9.1
+PyJWT==2.8.0
+Werkzeug==2.3.7
+pymongo==4.5.0
+python-dotenv==1.0.0
+authlib==1.2.1
+requests==2.31.0
+pyotp==2.9.0
+qrcode==7.4.2
