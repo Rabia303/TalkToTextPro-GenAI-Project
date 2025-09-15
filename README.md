@@ -237,10 +237,10 @@ Welcome everyone to the project kickoff meeting.
 
 Developed as part of **TechWiz Hackathon – Aptech Limited**
 
-* \Rabia Imtiaz (Lead Developer)
-* \Tayyaba Rehan
-* \Rameen Sahar
-* \Noor Ul Ain Lodhi
+* Rabia Imtiaz (Lead Developer)
+* Tayyaba Rehan
+* Rameen Sahar
+* Noor Ul Ain Lodhi
 ---
 
 ## License
