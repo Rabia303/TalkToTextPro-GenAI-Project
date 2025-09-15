@@ -1,4 +1,3 @@
-Here is the cleaned-up version of your **TalkToText Pro** project README with **all emojis removed**, while preserving formatting and clarity:
 
 ---
 
