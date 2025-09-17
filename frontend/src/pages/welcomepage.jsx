@@ -72,7 +72,7 @@ const navigate = useNavigate();
               animate={{ y: 0, opacity: 1 }}
               transition={{ duration: 0.8, delay: 0.4 }}
             >
-              Break Language Barriers with <span className="gradient-text">GeoSpeak</span>
+              Break Language Barriers with <span className="gradient-text">TalkToText Pro</span>
             </motion.h1>
             
             <motion.p 
