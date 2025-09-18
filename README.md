@@ -257,8 +257,3 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 * [Blog Post](https://ai-poweredmeetingnotesrewriter.hashnode.dev/talktotext-pro)
 
 ---
-
-**Built with love for TechWiz Hackathon by Aptech**
-
----
-
